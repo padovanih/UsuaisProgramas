@@ -1,0 +1,7 @@
+NOME: AERO1 ### MATRICULA: MATRICULA1 ### CODIGO: 111 ### Fabricante: FAB_1 ### Pais: BRA
+NOME: AERO2 ### MATRICULA: MATRICULA2 ### CODIGO: 222 ### Fabricante: FAB_2 ### Pais: ARG
+NOME: AERO3 ### MATRICULA: MATRICULA3 ### CODIGO: 333 ### Fabricante: FAB_3 ### Pais: GER
+NOME: AERO4 ### MATRICULA: MATRICULA4 ### CODIGO: 444 ### Fabricante: FAB_4 ### Pais: POL
+NOME: AERO5 ### MATRICULA: MATRICULA5 ### CODIGO: 111 ### Fabricante: FAB_1 ### Pais: BRA
+NOME: AERO6 ### MATRICULA: MATRICULA6 ### CODIGO: 222 ### Fabricante: FAB_2 ### Pais: ARG
+NOME: AERO7 ### MATRICULA: MATRICULA7 ### CODIGO: 111 ### Fabricante: FAB_1 ### Pais: BRA
