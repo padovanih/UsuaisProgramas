@@ -9,7 +9,7 @@ def cria(vetor):
 	for i in vetor:
 		pag.typewrite(i)
 		pag.press('enter')
-		t.sleep(0.5)
+		t.sleep(0.05)
 
 
 
