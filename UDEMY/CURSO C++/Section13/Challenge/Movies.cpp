@@ -31,7 +31,11 @@ Movies::~Movies() {
     and add that movie object to the movies vector and return true
     *********************************************************************/
 bool Movies::add_movie(std::string name, std::string rating, int watched) {
-    // you implement this method
+    for (auto &&movie : this->movies)
+    {
+        
+    }
+    
     return false;
 }
 
